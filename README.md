@@ -20,3 +20,16 @@ Exp1.2[Agile1.2pdf.docx](https://github.com/Ankeshkumar12/mini-project2/files/14
 
 Exp1.3[Agile_Unit_1.docx](https://github.com/Ankeshkumar12/mini-project2/files/14472874/Agile_Unit_1.docx)
 
+Desing and Analysis of Algorithm
+
+Exp1.1[DAA1.1.pdf](https://github.com/Ankeshkumar12/mini-project2/files/14472879/daa1.1.pdf)
+
+Exp1.2[DAA.EXP.02 (1).docx](https://github.com/Ankeshkumar12/mini-project2/files/14472888/DAA.EXP.02.1.docx)
+
+Exp1.3[DAA.EXP.03.docx](https://github.com/Ankeshkumar12/mini-project2/files/14472889/DAA.EXP.03.docx)
+
+Exp2.1[DAA.EXP.04.docx](https://github.com/Ankeshkumar12/mini-project2/files/14472892/DAA.EXP.04.docx)
+
+Exp2.2[DAA.EXP.05.docx](https://github.com/Ankeshkumar12/mini-project2/files/14472895/DAA.EXP.05.docx)
+
+Exp2.3[DAA.EXP.06.docx](https://github.com/Ankeshkumar12/mini-project2/files/14472902/DAA.EXP.06.docx)
