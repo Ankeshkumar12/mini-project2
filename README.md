@@ -14,4 +14,9 @@ Fifth file of Git2.2 [git2.2 (1).pdf](https://github.com/Ankeshkumar12/mini-proj
 
 Agile Methodology
 
-Exp1.1
+Exp1.1[Agile1.1 pdf.pptx.docx](https://github.com/Ankeshkumar12/mini-project2/files/14472787/Agile1.1.pdf.pptx.docx)
+
+Exp1.2[Agile1.2pdf.docx](https://github.com/Ankeshkumar12/mini-project2/files/14472872/Agile1.2pdf.docx)
+
+Exp1.3[Agile_Unit_1.docx](https://github.com/Ankeshkumar12/mini-project2/files/14472874/Agile_Unit_1.docx)
+
